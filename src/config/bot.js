@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "the donut army", // required by Discord API, not shown in the client
-        state: "best bot for the donut server",     // this is what people actually see
+        name: "OmniX", // required by Discord API, not shown in the client
+        state: "OmniX ⚡ — one bot, unlimited possibilities.",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
